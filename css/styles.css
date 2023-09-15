@@ -594,7 +594,7 @@ footer {
   border-top: unset;
 }
 .project-list-item:hover .container-project-content {
-  border: 1px solid var(--cloud);
+  border-color: var(--cloud);
   background: var(--white);
   box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
     0px 1px 1px 0px rgba(46, 47, 66, 0.16),
